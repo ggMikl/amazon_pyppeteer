@@ -1,0 +1,2 @@
+# amazon_pypeteer
+使用pyppeteer抓取亚马逊商品详情页的一些信息，可以选择是否抓取该商品其他型号的页面
